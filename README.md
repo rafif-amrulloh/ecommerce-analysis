@@ -34,13 +34,17 @@ Dibuat sebagai bagian dari portfolio Data Analyst.
 
 ## 📁 Struktur Folder
 
-ecommerce-analysis/
-├── data/
-│ ├── olist_orders_dataset.csv
-│ └── olist_order_items_dataset.csv
-├── notebook/
-│ └── analysis.ipynb
-└── README.md
+## 📁 Struktur Folder
+
+    ecommerce-analysis/
+    ├── data/
+    │   ├── olist_orders_dataset.csv
+    │   └── olist_order_items_dataset.csv
+    ├── notebook/
+    │   ├── analysis.ipynb
+    │   ├── tren_penjualan.png
+    │   └── produk_terlaris.png
+    └── README.md
 
 ---
 
