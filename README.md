@@ -34,8 +34,6 @@ Dibuat sebagai bagian dari portfolio Data Analyst.
 
 ## 📁 Struktur Folder
 
-## 📁 Struktur Folder
-
     ecommerce-analysis/
     ├── data/
     │   ├── olist_orders_dataset.csv
